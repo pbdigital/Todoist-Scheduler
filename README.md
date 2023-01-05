@@ -1,5 +1,11 @@
 # Todoist-Scheduler
 
+##Disclaimer
+
+Let me start with a disclaimer :-)
+
+I made this script as a fun little side projects over the xmas holidays and have been using it with my own Todoist setup. Chances are you'll need to modify the code to get it to work with you're set, google accounts, etc...
+
 ## How It Works
 
 I've been using Todoist Shortcuts (https://github.com/mgsloan/todoist-shortcuts) the past few months and simply added a new keybiding and function into todoist-shortcuts.js which I've included in this repo.
