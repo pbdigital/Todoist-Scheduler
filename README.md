@@ -1,10 +1,12 @@
 # Todoist-Scheduler
 
-##Disclaimer
+## Disclaimer
 
 Let me start with a disclaimer :-)
 
-I made this script as a fun little side projects over the xmas holidays and have been using it with my own Todoist setup. Chances are you'll need to modify the code to get it to work with you're set, google accounts, etc...
+I made this script as a little side projects over the xmas holidays and have been using it with my own Todoist setup to automate what I was doing manually. Feel free to use, modify, etc... what I have but chances are that you'll need to modify the code to get it to work with you're setup, google accounts, etc...
+
+Hope it helps though
 
 ## How It Works
 
